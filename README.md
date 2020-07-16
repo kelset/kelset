@@ -6,7 +6,7 @@
 
 ### Kelset here 👋
 
-- 🔭 I’m currently working for[Formidable](https://formidable.com/)
+- 🔭 I’m currently working as a Software Engineer for [Formidable](https://formidable.com/)
   - on a React Native library for a client 🤐
 - 🌱 I’m currently learning to take care of my sleep
   - just bought a new pillow & the new Oura ring 🛌

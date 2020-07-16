@@ -24,5 +24,3 @@
 📥 Open DMs on [Twitter](https://twitter.com/kelset)
 
 📧 notkelset@kelset.dev
-
-![Photo of a trail of stars, which has been colorized to resemble a rainbow](https://github.com/kelset/kelset/blob/master/background.jpg)

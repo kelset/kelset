@@ -6,18 +6,11 @@
 
 ### Kelset here 👋
 
-- 🔭 I’m currently working as a Software Engineer
-  - Mostly focused on Javascript based projects in React Native
-- 🌱 I’m currently learning to take care of my daily habits
-  - but I'm honestly quite fair behind on that
-- 👯 I’m looking to collaborate on Open Source related apps and/or communities
-  - I organise a meetup for OSS maintainers, currently on hold 'cause CoVid 😅 But we're ramping back up!
-- 🤔 I’m looking for help with improving my managerial skills
-  - Send me articles on being a manager and/or a team lead in the dev space 📚
+- 🔭 I’m currently working as a Senior Software Engineer at Microsoft
+  - Mostly focused infrastructure and projects that use React Native in a non trivial way
 - 💬 Ask me about React Native, Open Source and mental health
   - I can also speak at your conf, be a guest in your podcast and all that jazz 🗣
 - 😄 Pronouns: he/him
-  - I'm trying to learn to use the singular they to be a better ally ✊ (english is hard 😅)
 
 #### How to reach me:
 

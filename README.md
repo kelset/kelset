@@ -39,7 +39,8 @@ Aside from code, there a few other things I dabble with:
 * Mastodon: [@kelset](https://mastodon.online/@kelset)
 * Threads: [@kelset.dev](https://www.threads.net/@kelset.dev)
 * LinkedIn: [lorenzo-sciandra](https://www.linkedin.com/in/lorenzo-sciandra/)
-* For everything else, check out my website: [kelset.dev](https://kelset.dev/) 
+
+For everything else, check out my website: [kelset.dev](https://kelset.dev/) 
 
 <img src="https://github.com/kelset/kelset/blob/master/img/divider.jpg" alt="Divider" height="30" width="2000">
 <p align="center">

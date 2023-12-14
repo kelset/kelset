@@ -2,7 +2,7 @@
 **kelset/kelset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://github.com/kelset/kelset/blob/master/img/header.jpg" alt="Header" height="30" width="2000">
+<img src="https://github.com/kelset/kelset/blob/master/img/header.jpg" alt="Header">
 
 ## 👋 Hey everyone, I'm Lorenzo
 

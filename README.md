@@ -4,7 +4,7 @@
 
 <img src="https://github.com/kelset/kelset/blob/master/img/header.jpg" alt="Header">
 
-## 👋 Hey everyone, I'm Lorenzo
+## Hey everyone, I'm Lorenzo 👋 
 
 I'm a Senior Software Engineer @ Microsoft, and I've been a maintainer of React Native since 2018.
 
@@ -22,7 +22,7 @@ Here are some of the things I'm working on at... work 😅:
 
 And if you want to learn more about how we use React Native at Microsoft, you should check out [Microsoft's React Native official DevBlog](https://devblogs.microsoft.com/react-native/).
 
-## Projects 🐧
+## Projects ✨
 
 Aside from code, there a few other things I dabble with:
 

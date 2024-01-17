@@ -24,9 +24,9 @@ And if you want to learn more about how we use React Native at Microsoft, you sh
 
 ## Projects ✨
 
-Aside from code, there a few other things I did:
+Aside from code, there a few other things I have done:
 
-* [Talks and Podcasts](https://kelset.dev/talks/), I do talks at confs, meetups and in general where devs can be found.
+* [Talks and Podcasts and more](https://kelset.dev/tags/), in this page you can find all my talks at confs, along with blogposts and podcasts and etc.
 * [Untitled Mental Health project](https://www.youtube.com/playlist?list=PLiD6R_aXkpLiMfS2YrhSgtSj09JJCaP2y), my YouTube series where I talk with tech people about mental health.
 * [Managing Mental Health](https://www.notion.so/lifeiswhat/Managing-Mental-Health-adb0fb63a8144951b304bfb3bb7ed482), a Notion board where I collect resources around mental health and tech.
 * [React Native Community Map](https://www.notion.so/lifeiswhat/The-React-Native-Community-Map-07f3221c294d4c8ab65a13cf1dee6901), a Notion board for mapping where the RN community is.

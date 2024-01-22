@@ -28,7 +28,7 @@ Aside from code, there a few other things I have done:
 
 * [Talks and Podcasts and more](https://kelset.dev/tags/), in this page you can find all my talks at confs, along with blogposts and podcasts and etc.
 * [Untitled Mental Health project](https://www.youtube.com/playlist?list=PLiD6R_aXkpLiMfS2YrhSgtSj09JJCaP2y), my YouTube series where I talk with tech people about mental health.
-* [Managing Mental Health](https://www.notion.so/lifeiswhat/Managing-Mental-Health-adb0fb63a8144951b304bfb3bb7ed482), a Notion board where I collect resources around mental health and tech.
+* [Managing Mental Health](https://lifeiswhat.notion.site/Managing-Mental-Health-adb0fb63a8144951b304bfb3bb7ed482), a Notion board where I collect resources around mental health and tech.
 * [React Native Community Map](https://www.notion.so/lifeiswhat/The-React-Native-Community-Map-07f3221c294d4c8ab65a13cf1dee6901), a Notion board for mapping where the RN community is.
 * [rn-full-pack](https://marketplace.visualstudio.com/items?itemName=kelset.rn-full-pack#overview), an opinionated set of extensions to be up-and-running with React Native in VSCode.
  

@@ -26,10 +26,11 @@ And if you want to learn more about how we use React Native at Microsoft, you sh
 
 Aside from code, there a few other things I have done:
 
-* [Talks and Podcasts and more](https://kelset.dev/tags/), in this page you can find all my talks at confs, along with blogposts and podcasts and etc.
 * [debug:mind](https://www.youtube.com/channel/UCbw5AHyRBNUFzTHCVuO5q9w?sub_confirmation=1), my YouTube series where I talk with tech people about mental health.
-* [Managing Mental Health](https://lifeiswhat.notion.site/Managing-Mental-Health-adb0fb63a8144951b304bfb3bb7ed482), a Notion board where I collect resources around mental health and tech.
-* [React Native Community Map](https://www.notion.so/lifeiswhat/The-React-Native-Community-Map-07f3221c294d4c8ab65a13cf1dee6901), a Notion board for mapping where the RN community is.
+* [Talks and Podcasts and more](https://kelset.dev/tags/), in this page you can find all my talks at confs, along with blogposts and podcasts and etc.
+* [Mental Health Resources](https://github.com/kelset/mental-health-resources), a GitHub page where I collect resources around mental health and tech.
+* [React Native Community Map](https://github.com/kelset/react-native-community-map), a GitHub page for mapping where the RN community is.
+* [Job Hunting Resources](https://github.com/kelset/job-hunting-resources), a GitHub page with resources to help people in tech finding jobs.
 * [rn-full-pack](https://marketplace.visualstudio.com/items?itemName=kelset.rn-full-pack#overview), an opinionated set of extensions to be up-and-running with React Native in VSCode.
  
 ## Contacts 📬

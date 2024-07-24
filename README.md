@@ -6,13 +6,11 @@
 
 ## Hey everyone, I'm Lorenzo 👋 
 
-I have been a Senior Software Engineer @ Microsoft, and a maintainer of React Native from 2018 'til 2024. I haven’t shared yet what I’m doing next 😉
-
-I care a lot about mental health and open source, and won’t stop talking about either.
+I am currently working as a Technologist for the [Sovereign Tech Fund](https://www.sovereigntechfund.de), making open source more sustainable. Previously, I have been a Senior Software Engineer at [Microsoft](https://www.microsoft.com/en-gb/) and a dedicated maintainer of [React Native](https://reactnative.dev/) for 6+ years. I'm also an vocal advocate for mental health.
 
 ## Worked on ⚙️
 
-Here are some of the things I’ve worked on over the years:
+Here are some of the things I've worked on as a software engineer and maintainer over the years:
 
 * [React Native](https://github.com/facebook/react-native), which enable you to create awesome cross-platform iOS and Android apps powered by Javascript.
 * [React Native Windows](https://github.com/microsoft/react-native-windows), what if I told you that we can use React Native for Windows as well?

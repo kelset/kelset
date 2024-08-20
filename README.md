@@ -23,9 +23,8 @@ Here are some of the things I've worked on as a software engineer and maintainer
 
 Aside from code, there a few other things I have done:
 
-* [debug:mind](https://www.youtube.com/channel/UCbw5AHyRBNUFzTHCVuO5q9w?sub_confirmation=1), my YouTube series where I talk with tech people about mental health.
+* [debug:mind](https://debug-mind.com/), my YouTube series where I talk with tech people about mental health; on its website you can also find resources I collect around mental health and tech.
 * [Talks and Podcasts and more](https://kelset.dev/tags/), in this page you can find all my talks at confs, along with blogposts and podcasts and etc.
-* [Mental Health Resources](https://github.com/kelset/mental-health-resources), a GitHub page where I collect resources around mental health and tech.
 * [Job Hunting Resources](https://github.com/kelset/job-hunting-resources), a GitHub page with resources to help people in tech finding jobs.
  
 ## Contacts 📬

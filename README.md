@@ -32,6 +32,7 @@ Aside from code, there a few other things I have done:
 * Email: [notkelset@kelset.dev](mailto:notkelset@kelset.dev)
 * Twitter: [@kelset](https://twitter.com/kelset) 
 * Mastodon: [@kelset](https://mastodon.online/@kelset)
+* Bluesky: [@kelset.dev](https://bsky.app/profile/kelset.dev)
 * Threads: [@kelset.dev](https://www.threads.net/@kelset.dev)
 * LinkedIn: [lorenzo-sciandra](https://www.linkedin.com/in/lorenzo-sciandra/)
 

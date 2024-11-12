@@ -6,7 +6,7 @@
 
 ## Hey everyone, I'm Lorenzo 👋 
 
-I am currently working as a Technologist for the [Sovereign Tech Fund](https://www.sovereigntechfund.de), making open source more sustainable. Previously, I have been a Senior Software Engineer at [Microsoft](https://www.microsoft.com/en-gb/) and a dedicated maintainer of [React Native](https://reactnative.dev/) for 6+ years. I'm also an vocal advocate for mental health.
+I am currently working as a Technologist for the [Sovereign Tech Agency](https://www.sovereign.tech/), making open source more sustainable. Previously, I have been a Senior Software Engineer at [Microsoft](https://www.microsoft.com/en-gb/) and a dedicated maintainer of [React Native](https://reactnative.dev/) for 6+ years. I'm also an vocal advocate for mental health.
 
 ## Worked on ⚙️
 
@@ -30,10 +30,9 @@ Aside from code, there a few other things I have done:
 ## Contacts 📬
  
 * Email: [notkelset@kelset.dev](mailto:notkelset@kelset.dev)
-* Twitter: [@kelset](https://twitter.com/kelset) 
-* Mastodon: [@kelset](https://mastodon.online/@kelset)
 * Bluesky: [@kelset.dev](https://bsky.app/profile/kelset.dev)
-* Threads: [@kelset.dev](https://www.threads.net/@kelset.dev)
+* Mastodon: [@kelset](https://mastodon.online/@kelset)
+* YouTube: [@kelset](https://www.youtube.com/@kelset)
 * LinkedIn: [lorenzo-sciandra](https://www.linkedin.com/in/lorenzo-sciandra/)
 
 For everything else, check out my website: [kelset.dev](https://kelset.dev/) 

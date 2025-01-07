@@ -6,7 +6,8 @@
 
 ## Hey everyone, I'm Lorenzo 👋 
 
-I am currently working as a Technologist for the [Sovereign Tech Agency](https://www.sovereign.tech/), making open source more sustainable. Previously, I have been a Senior Software Engineer at [Microsoft](https://www.microsoft.com/en-gb/) and a dedicated maintainer of [React Native](https://reactnative.dev/) for 6+ years. I'm also an vocal advocate for mental health.
+Former Technologist at the [Sovereign Tech Agency](https://www.sovereign.tech/), where I worked to make open source more sustainable. Previously, I was a Senior Software Engineer at [Microsoft](https://www.microsoft.com/en-gb/) and a dedicated maintainer of [React Native](https://reactnative.dev/) for 6+ years. I'm also an advocate for mental health and open source ecosystems. Currently recharging and open to conversations!
+
 
 ## Worked on ⚙️
 

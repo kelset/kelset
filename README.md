@@ -6,8 +6,7 @@
 
 ## Hey everyone, I'm Lorenzo 👋 
 
-Former Technologist at the [Sovereign Tech Agency](https://www.sovereign.tech/), where I worked to make open source more sustainable. Previously, I was a Senior Software Engineer at [Microsoft](https://www.microsoft.com/en-gb/) and a dedicated maintainer of [React Native](https://reactnative.dev/) for 6+ years. I'm also an advocate for mental health and open source ecosystems. Currently recharging and open to conversations!
-
+Senior Software Engineer specializing in ecosystem-scale impact and open source leadership. Former Technologist at the [Sovereign Tech Agency](https://www.sovereign.tech/) supporting critical OSS infrastructure, and previously Senior Software Engineer at [Microsoft](https://www.microsoft.com/en-gb/) driving React Native adoption and working on key feature across the main Microsoft apps (Outlook, Teams, Office). As a [React Native](https://reactnative.dev/) core maintainer for 6+ years, I led 20+ releases and helped shape a framework used by millions of developers worldwide. Currently consulting independently and exploring leadership opportunities!
 
 ## Worked on ⚙️
 
@@ -31,9 +30,6 @@ Aside from code, there a few other things I have done:
 ## Contacts 📬
  
 * Email: [notkelset@kelset.dev](mailto:notkelset@kelset.dev)
-* Bluesky: [@kelset.dev](https://bsky.app/profile/kelset.dev)
-* Mastodon: [@kelset](https://mastodon.online/@kelset)
-* YouTube: [@kelset](https://www.youtube.com/@kelset)
 * LinkedIn: [lorenzo-sciandra](https://www.linkedin.com/in/lorenzo-sciandra/)
 
 For everything else, check out my website: [kelset.dev](https://kelset.dev/) 

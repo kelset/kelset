@@ -6,33 +6,35 @@
 
 ## Hey everyone, I'm Lorenzo 👋 
 
-Senior Software Engineer specializing in ecosystem-scale impact and open source leadership. Former Technologist at the [Sovereign Tech Agency](https://www.sovereign.tech/) supporting critical OSS infrastructure, and previously Senior Software Engineer at [Microsoft](https://www.microsoft.com/en-gb/) driving React Native adoption and working on key feature across the main Microsoft apps (Outlook, Teams, Office). As a [React Native](https://reactnative.dev/) core maintainer for 6+ years, I led 20+ releases and helped shape a framework used by millions of developers worldwide. Currently consulting independently and exploring leadership opportunities!
+Staff Engineer at [Shopify](https://www.shopify.com) (building [Shop app](https://shop.app)). I focus on high-leverage mobile engineering and cross-team impact. Former Technologist at the [Sovereign Tech Fund](https://www.sovereign.tech/) supporting critical OSS infrastructure, and previously Senior Software Engineer at [Microsoft](https://www.microsoft.com/en-gb/) driving React Native adoption and shipping features across Outlook, Teams, and Office. 
+
+From 2018–2024 I served as a [React Native](https://reactnative.dev/) core maintainer, leading 20+ releases and coordinating efforts across companies. These days my OSS time is limited—I contribute occasionally and mentor maintainers—while my primary focus is Shopify.
 
 ## Worked on ⚙️
 
-Here are some of the things I've worked on as a software engineer and maintainer over the years:
+A few things I’ve worked on as an engineer and maintainer:
 
-* [React Native](https://github.com/facebook/react-native), which enable you to create awesome cross-platform iOS and Android apps powered by Javascript.
-* [React Native Windows](https://github.com/microsoft/react-native-windows), what if I told you that we can use React Native for Windows as well?
-* [React Native macOS](https://github.com/microsoft/react-native-macos), and for macOS too!
-* [rnx-kit](https://github.com/microsoft/rnx-kit), some of extra and advanced tools made at Microsoft to make RN even better!
-* [React Native Test App](https://github.com/microsoft/react-native-test-app), an iOS-Android-macOS-Windows React Native project without upgrading pains.
-* [rn-full-pack](https://marketplace.visualstudio.com/items?itemName=kelset.rn-full-pack#overview), an opinionated set of extensions to be up-and-running with React Native in VSCode.
+* [React Native](https://github.com/facebook/react-native), a framework that enables building cross-platform iOS and Android apps with JavaScript.
+* [React Native Windows](https://github.com/microsoft/react-native-windows), bringing React Native to Windows.
+* [React Native macOS](https://github.com/microsoft/react-native-macos), bringing React Native to macOS.
+* [rnx-kit](https://github.com/microsoft/rnx-kit), tooling from Microsoft to improve React Native developer experience.
+* [React Native Test App](https://github.com/microsoft/react-native-test-app), a multi-platform RN host app that minimizes upgrade pain.
+* [rn-full-pack](https://marketplace.visualstudio.com/items?itemName=kelset.rn-full-pack#overview), an opinionated VS Code extension pack for React Native.
 
 ## Projects ✨
 
-Aside from code, there a few other things I have done:
+Beyond code:
 
-* [debug:mind](https://debug-mind.com/), my YouTube series where I talk with tech people about mental health; on its website you can also find resources I collect around mental health and tech.
-* [Talks and Podcasts and more](https://kelset.dev/tags/), in this page you can find all my talks at confs, along with blogposts and podcasts and etc.
-* [Job Hunting Resources](https://github.com/kelset/job-hunting-resources), a GitHub page with resources to help people in tech finding jobs.
+* [debug:mind](https://debug-mind.com/), a YouTube series and resource hub about mental health in tech.
+* [Talks, podcasts, and more](https://kelset.dev/tags/), a list of conference talks, posts, and recordings.
+* [Job Hunting Resources](https://github.com/kelset/job-hunting-resources), links and notes to help folks find roles in tech.
  
 ## Contacts 📬
  
 * Email: [notkelset@kelset.dev](mailto:notkelset@kelset.dev)
 * LinkedIn: [lorenzo-sciandra](https://www.linkedin.com/in/lorenzo-sciandra/)
 
-For everything else, check out my website: [kelset.dev](https://kelset.dev/) 
+For more, visit [kelset.dev](https://kelset.dev/).
 
 <img src="https://github.com/kelset/kelset/blob/master/img/divider.jpg" alt="Divider" height="30" width="2000">
 <p align="center">

@@ -6,7 +6,7 @@
 
 ## Hey everyone, I'm Lorenzo 👋 
 
-Staff Engineer at [Shopify](https://www.shopify.com) (building [Shop app](https://shop.app)). I focus on high-leverage mobile engineering and cross-team impact. Former Technologist at the [Sovereign Tech Fund](https://www.sovereign.tech/) supporting critical OSS infrastructure, and previously Senior Software Engineer at [Microsoft](https://www.microsoft.com/en-gb/) driving React Native adoption and shipping features across Outlook, Teams, and Office. 
+Staff Engineer at [Shopify](https://www.shopify.com) (building [Shop app](https://shop.app)), improving mobile reliability, performance, developer workflows, and agentic coding. By integrating multi-agent orchestration, I focus on high-leverage engineering and cross-team impact. Former Technologist at the [Sovereign Tech Fund](https://www.sovereign.tech/) supporting critical OSS infrastructure, and previously Senior Software Engineer at [Microsoft](https://www.microsoft.com/en-gb/) driving React Native adoption and shipping features across Outlook, Teams, and Office. 
 
 From 2018–2024 I served as a [React Native](https://reactnative.dev/) core maintainer, leading 20+ releases and coordinating efforts across companies. These days my OSS time is limited—I contribute occasionally and mentor maintainers—while my primary focus is Shopify.
 
@@ -20,6 +20,7 @@ A few things I’ve worked on as an engineer and maintainer:
 * [rnx-kit](https://github.com/microsoft/rnx-kit), tooling from Microsoft to improve React Native developer experience.
 * [React Native Test App](https://github.com/microsoft/react-native-test-app), a multi-platform RN host app that minimizes upgrade pain.
 * [rn-full-pack](https://marketplace.visualstudio.com/items?itemName=kelset.rn-full-pack#overview), an opinionated VS Code extension pack for React Native.
+* [Agents Party](https://agentsparty.dev), an [open-source](https://github.com/kelset/agent-party-planner) themed agent orchestrator scaffolder. Silly little personal project.
 
 ## Projects ✨
 
@@ -35,9 +36,3 @@ Beyond code:
 * LinkedIn: [lorenzo-sciandra](https://www.linkedin.com/in/lorenzo-sciandra/)
 
 For more, visit [kelset.dev](https://kelset.dev/).
-
-<img src="https://github.com/kelset/kelset/blob/master/img/divider.jpg" alt="Divider" height="30" width="2000">
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kelset&column=5&margin-w=7&margin-h=7" alt="Trophies" width="700">
-</p>
-<img src="https://github.com/kelset/kelset/blob/master/img/divider.jpg" alt="Divider" height="30" width="2000">
